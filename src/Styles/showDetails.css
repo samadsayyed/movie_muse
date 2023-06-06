@@ -1,0 +1,19 @@
+.firsthalf{
+    background: rgb(102, 102, 102);
+    color: white;
+    display: flex;
+    justify-content:space-around;
+    padding: 2rem 0;
+    align-items: center;
+}
+.detail_img{
+    border-radius: 10px;
+}
+
+.secondhalf{
+    padding: 2rem;
+}
+
+.details{
+    min-height: 85vh;
+}
